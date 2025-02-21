@@ -5,7 +5,7 @@ This project demonstrates the application of **semantic segmentation** using dee
 
 The segmentation model aims to assist urban planners, environmentalists, disaster response teams, and other professionals engaged in resource management and city planning.
 
-<img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/confusion%20matrix.png" width="400" />
+<img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/UNET.png" width="700" />
 
 ---
 
@@ -49,9 +49,9 @@ The segmentation model aims to assist urban planners, environmentalists, disaste
 <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/confusion%20matrix.png" width="400" />
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/training%20vs%20val%20iou%20final.png" width="400" />
+   <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/training%20vs%20val%20loss.png" width="400" />
 </div>
 
-<img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/training%20vs%20val%20loss.png" width="400" />
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/modelpredict2.png" width="400" />
