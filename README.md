@@ -49,6 +49,13 @@ The segmentation model aims to assist urban planners, environmentalists, disaste
 <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/training%20vs%20val%20iou%20final.png" width="400" />
 
 <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/training%20vs%20val%20loss.png" width="400" />
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/modelpredict2.png" width="400" />
+    <img src="https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/modelpredict3.png" width="400" />
+</div>
+
+---
 ## Key Learnings
 - The U-Net model performs well for the dataset it was trained on but struggles with domain shifts.  
 - Addressing class imbalance and increasing dataset diversity are crucial for robust generalization.
