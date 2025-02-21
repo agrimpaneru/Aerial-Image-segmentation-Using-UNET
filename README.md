@@ -44,7 +44,7 @@ The segmentation model aims to assist urban planners, environmentalists, disaste
 
 ---
 ### Visual Results
-![Original Aerial Image](https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/confusion%20matrix.png)
+![Original Aerial Image](https://github.com/agrimpaneru/Aerial-Image-segmentation-Using-UNET/blob/main/confusion%20matrix.png?raw=true width="400")
 ![Segmented Output](https://github.com/<username>/<repository>/blob/main/images/segmented_output.png?raw=true)
 
 ## Key Learnings
